@@ -99,7 +99,6 @@ public class Homework2 {
 		// Method 2
 		for (int i = 0; i < 6; i++) {
 			for (int j = 0; j <= i; j++) {
-				
 				// A的ASCII碼=65
 				System.out.print((char)(65 + i));
 			}
