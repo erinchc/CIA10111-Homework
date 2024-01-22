@@ -86,6 +86,7 @@ public class Homework2 {
 		// EEEEE
 		// FFFFFF
 
+		// Method 1
 		// 外層決定要print哪個字母
 		for (char c = 'A'; c <= 'F'; c++) {
 			// 內層決定要print幾次
@@ -94,6 +95,17 @@ public class Homework2 {
 			}
 			System.out.println();
 		}
+		
+		// Method 2
+		for (int i = 0; i < 6; i++) {
+			for (int j = 0; j <= i; j++) {
+				
+				// A的ASCII碼=65
+				System.out.print((char)(65 + i));
+			}
+			System.out.println();
+		}
+		
 	}
 
 }
