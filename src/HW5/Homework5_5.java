@@ -1,6 +1,8 @@
 package HW5;
 
 public class Homework5_5 {
+	
+	// 設計一個方法genAuthCode(),當呼叫此方法時會回傳一個8位數的驗證碼,內容包含英文大小寫與數字的亂數組合
 
 	public static void main(String[] args) {
 		genAuthCode();
