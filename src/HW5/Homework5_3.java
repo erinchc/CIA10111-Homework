@@ -2,6 +2,9 @@ package HW5;
 
 public class Homework5_3 {
 
+	// 利用Overloading,設計兩個方法int maxElement(int x[][])與double maxElement(double x[][])
+	// 回傳二維陣列的最大值
+
 	public static void main(String[] args) {
 
 		int[][] intArray = { { 1, 6, 3 }, { 9, 5, 2 } };
@@ -24,7 +27,6 @@ class Work03 {
 		for (int i = 0; i < x.length; i++) {
 			for (int j = 0; j < x[i].length; j++) {
 				if (x[i][j] > max) {
-
 					// 更新最大值
 					max = x[i][j];
 				}
