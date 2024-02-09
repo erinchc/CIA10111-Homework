@@ -6,7 +6,7 @@
 - 定義Getter/Setter方法
 - 宣告一個抽象方法write()
 
-### **(繼承)** 建立兩個子類別Pencil與InkBrush 
+### 建立兩個子類別Pencil與InkBrush  **(繼承)**
 - 實作方法：Pencil輸出為削鉛筆再寫，InkBrush為沾墨汁再寫
 - Pencil實際售價為定價8折，InkBrush為定價9折
 - **(多型)** 當共同呼叫write()方法與getPrice()方法，各種筆都可正確顯示write內容與售價金額 
