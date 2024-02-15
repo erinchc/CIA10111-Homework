@@ -1,4 +1,4 @@
-package HW7;
+package HW_Ext;
 
 public class InkBrush extends Pen {
 

@@ -1,4 +1,4 @@
-package HW7;
+package HW_Ext;
 
 public abstract class Pen {
 	
