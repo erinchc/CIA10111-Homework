@@ -27,7 +27,7 @@ public class Homework7_5 {
 				}
 			}
 
-			// 讀到檔案結尾 catch EOFException 結束讀取
+		// 讀到檔案結尾 catch EOFException 結束讀取
 		} catch (EOFException ee) {
 			System.out.println("Done!");
 		}
