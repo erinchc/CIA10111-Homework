@@ -1,4 +1,4 @@
-package HW7;
+package hw7;
 
 import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;

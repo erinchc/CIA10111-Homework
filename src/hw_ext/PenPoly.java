@@ -1,4 +1,4 @@
-package HW_Ext;
+package hw_ext;
 
 public class PenPoly {
 

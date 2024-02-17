@@ -1,4 +1,4 @@
-package HW7;
+package hw7;
 
 import java.io.File;
 import java.io.FileOutputStream;
